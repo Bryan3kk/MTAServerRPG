@@ -1,0 +1,9 @@
+<meta>
+	
+<info author="L1K3" type="script" name="Compra Colete e Vida" version="1.0" />
+	
+<script src="clientVidaColete.lua" type="client" />
+
+<script src="Server.lua" type="server" />
+
+</meta>

@@ -1,0 +1,4 @@
+<meta>
+    <info author='L1K3' version='1.0.1' name='longview' description='long view all map' type='script' />
+    <script src="sourceC.lua" type="client" />
+</meta>

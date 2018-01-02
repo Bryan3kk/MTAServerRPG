@@ -1,0 +1,4 @@
+<meta>
+<info type="script" version="1.0" description="Firewall" author="LineB"/>
+<script src="Whitelist.lua" type="server" />
+</meta>
