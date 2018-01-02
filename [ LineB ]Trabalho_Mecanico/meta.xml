@@ -1,0 +1,5 @@
+<meta>
+<info Author="L1K3" name="TrabalhoDeMecanico" description="Mecanico para servidor" version="1.5" type="script" />
+	<script src="server.lua" type="server" />
+</meta>
+ 

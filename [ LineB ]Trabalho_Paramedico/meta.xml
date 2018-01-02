@@ -1,0 +1,7 @@
+<meta>  
+<info author="L1K3" version="2.5.1" type="script" name="Trabalho de Médico" description="" />  
+<script src = "s.lua" type = "server" />    
+<script src = "cp.lua" type = "client" />   
+<file src="58.png" />       
+
+</meta>

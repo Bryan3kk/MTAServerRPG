@@ -1,0 +1,5 @@
+<meta>
+	<info author="L1K3" version="1.0" type="script" name="Condutor de Trem" />
+	<script src="tranvia_sv.lua" type="server" />
+	<script src="tranvia_c.lua" type="client" />
+</meta>

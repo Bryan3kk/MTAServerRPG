@@ -1,0 +1,25 @@
+﻿function TheInicio()	
+	exports.scoreboard:scoreboardAddColumn("Occupation",true)	 
+    outputDebugString ( "Trabalho de Criminoso" )
+
+	end
+addEventHandler("onResourceStart", resourceRoot, TheInicio)
+TeamCrim = createTeam ( "Bandidos", 255, 2, 0 )
+jobDelCrim = createBlip (2479.2890625, -1685.2705078125, 13.5078125,56 )
+setBlipVisibleDistance(jobDelCrim, 250)
+jobDelCrimLV = createBlip (1756.48828125, 781.0947265625, 9.8203125,56 )
+setBlipVisibleDistance(jobDelCrimLV , 250)
+jobDelCrimSF = createBlip (-2089.7763671875, 84.4169921875, 35.313430786133,56 )
+setBlipVisibleDistance(jobDelCrimSF , 250)
+jobDelCrimLS = createBlip (1443.8271484375, -1324.126953125, 12.539125442505,56 )
+setBlipVisibleDistance(jobDelCrimLS , 250)
+function takeTheCrimJob(localPlayer)
+	local TeamCrim = getTeamFromName ("Criminoso")
+	setElementModel ( localPlayer,299)
+	setPlayerTeam ( localPlayer, TeamCrim )
+	setElementData ( localPlayer, "Occupation", "Criminoso" ) 
+	setPlayerNametagColor ( localPlayer, 255, 2, 0 )
+end
+addEvent ("jobDelCrimi", true )
+addEventHandler ("jobDelCrimi", root, takeTheCrimJob)
+

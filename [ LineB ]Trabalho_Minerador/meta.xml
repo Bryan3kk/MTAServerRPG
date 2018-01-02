@@ -1,0 +1,4 @@
+<meta>
+	<info author="L1K3" type="script" name="Trabalho de Mineiro" version="1.1" />
+	<script type="server" src="server.lua" />
+</meta>

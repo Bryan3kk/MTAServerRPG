@@ -1,0 +1,7 @@
+<meta>
+    <info author="L1K3" name="Criminal Job BETA" version="1.0" type="script"/>
+	<script src="Crims_C.lua" type="client" />
+	<script src="Crims_S.lua" type="server" />
+
+
+	</meta>

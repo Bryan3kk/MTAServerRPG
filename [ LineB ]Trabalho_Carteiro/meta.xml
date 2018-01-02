@@ -1,0 +1,7 @@
+<meta>
+    <info author="L1K3" version="1.0" type="script" name="Carteiro" description="Trabalho de Carteiro" />
+    <script src="client2.lua" type="client" />
+	<script src="postServer2.lua" type="server" />
+	<file src="blip.PNG"/>
+    <min_mta_version client="1.3.0-9.04491"></min_mta_version>
+</meta>

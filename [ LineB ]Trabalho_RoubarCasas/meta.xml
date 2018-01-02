@@ -1,0 +1,1 @@
+<meta>	<info author="[CIG]Motorola" version="3.0" type="script" name="" description="" />	<script src = "s.lua" type = "server" />	<script src = "crob.lua" type = "client" />	<script src = "hijack.lua" type = "server" /> 	        </meta>

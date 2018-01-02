@@ -1,0 +1,5 @@
+<meta>
+    <info type="script" version="1.5.0" author="L1K3" name="Serviço de Taxi" description="" />
+	<script src="taxi_s.lua" type="server" />
+	<script src="taxi_c.lua" type="client" />
+</meta>

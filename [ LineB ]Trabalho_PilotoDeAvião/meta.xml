@@ -1,0 +1,5 @@
+ <meta>
+    <info author="L1K3" name="PilotoDeAviao" version="0.9" type="script"/>
+    	<script src="plane.lua" type="server"/>
+    	<script src="planeC.lua" type="client"/>
+</meta>
