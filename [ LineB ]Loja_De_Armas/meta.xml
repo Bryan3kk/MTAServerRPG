@@ -1,0 +1,6 @@
+<meta>
+	<info author="L1K3" name="shop_ammunation" version="1.0.1" type="script" />
+	<script src="s_server.lua" type="server" />
+	<script src="s_client.lua" type="client" />
+	<file src="shops.xml" type="server" />
+</meta>

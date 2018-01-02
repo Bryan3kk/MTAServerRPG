@@ -1,0 +1,49 @@
+﻿		===================	
+		|Lista de Comandos|
+		===================		
+F4 - Painel de Ajuda
+F7 - Painel Vip
+F8 - Console
+F11 - Mapa
+-
+		==============
+		|Comandos VIP|
+		==============
+/blindar - Utilizado para blindar o veiculos
+-	
+		==================
+		|Comandos Normais|
+		==================
+Pressione 'C' - Ativar/Desativar o piloto automático
+/quit - sair do servidor
+/reconnect - Reentra no servidor
+/register (Nick) (Senha)
+/login (Nick) (Senha)
+/bug - Comando para reportar bug's
+/ideia - Comando para reportar ideias
+/atualização - mostra as novidades do server
+/pagar [Nick] [Quantia]
+/motor [Desliga e Liga o veiculo]
+/abastecer (Quantia) [Abastece o Carro]
+/mudarsenha [Abre o painel para alterar sua senha]
+
+[Policial] Pressione 'Left Shift' para usar o escudo
+-
+		======================
+		|Comprar Via & Colete| 
+		======================
+/vida - Preço = $10.000
+/colete - Preço = $20.000
+-	
+		================
+		|Comandos Rádio|	
+		================
+Pressione F8
+Digite 'setradio (Link da música)'
+Pressione 'R' para Ligar/Desligar o Rádio
+-
+
+
+
+
+(Breve novos comandos)

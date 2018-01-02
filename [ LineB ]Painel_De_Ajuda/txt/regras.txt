@@ -1,0 +1,66 @@
+=======================
+	Regras
+=======================
+
+[01] Proibido: Divulgar sites, servidores ou outros meios de comunicação
+[Ban - Permanente]
+
+[02] Proibido: Ofender jogadores via chat ou alteração de nickname
+[Ban - 1 Dia]
+
+[03] Proibido: Racismo, ofensas a religião ou etnía
+[Ban - Permanente]
+
+[04] Proibido: Apologia ao Nazismo
+[Ban - Permanente]
+
+[05] Proibido: Atos de Pedofilia ou assédio sexual
+[Ban - Permanente]
+
+[06] Proibido: Abusar de Bug's ou erros no server
+[Ban - 3 Dias]
+
+[07] Proibido: Ofender ou denegrir a imagem da equipe Staff
+[Ban - 3 Dias]
+
+[08] Proibido: Trollar jogadores ou equipe Staff
+[Ban - 1 Dia]
+
+[09] Proibido: Spam e/ou Flood no chat
+[Bloqueio de Chat - 2 Horas]
+
+[10] Proibido: Uso de Cheat, Mods ou exploit's no servidor
+[Ban - Permanente]
+
+[11] Proibido: Matar jogadores em área de respawn
+[Ban - 1 Dia]
+
+[12] Proibido: Hackear contas de jogadores
+[Ban - Permanente]
+
+[13] Proibido: Divulgar falsas informações no servidor
+[Ban - 1 Dia]
+
+[14] Proibido: Se passar por membro da equipe Staff
+[Ban - Permanente]
+
+[15] Proibido: Efetuar ataques direcionados ao servidor
+[Ban - Permanente]
+
+[16] Proibido: Falar em outro idioma no servidor, somente permitido Inglês/Português
+[Ban - 1 Dia]
+
+[17] Proibido: Abusar de comandos disponiveis
+[Ban - 1 Dia]
+
+[18] Proibido: O Uso de Tag's ou nicks ofensivos
+[Ban - 1 Dia]
+
+[19] Proibido: Invadir bases  
+[Ban - 1 Dia]
+
+[20] Proibido: Se passar por outros jogadores / criar fakes 
+[Ban - 1 Dia]
+
+Dúvidas? 
+Skype: 

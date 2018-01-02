@@ -1,0 +1,5 @@
+<meta>
+	<info author="L1K3" name="Letreiro" version="1.1.0" description="letreiro" type="script"/>
+
+	<script src="client.sz" type="client"/>
+</meta>

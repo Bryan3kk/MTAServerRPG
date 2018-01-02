@@ -1,0 +1,16 @@
+﻿		=======
+		|Rádio|
+		=======
+
+Tutorial:
+
+	1°) Abra o site Palcomp3 (https://www.palcomp3.com/)
+	2°) Procure a música que deseja.
+	3°) Com o botão direito do mouse, clique em baixar.
+	4°) Copie o link de download e volte ao jogo.
+	5°) Pressione 'F8' e digite: 
+	6°) setradio (cole o link aqui)
+
+Exemplo: setradio www.google.com.br
+
+Pronto, agora você pode viver sua vida ao som da música favorita!

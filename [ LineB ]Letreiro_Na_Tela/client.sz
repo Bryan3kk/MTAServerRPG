@@ -1,0 +1,71 @@
+local newFont = dxCreateFont( "customfont.ttf", 35 )
+
+local messagesList = {
+  	[1] = "Leia as Regras ;) ",
+	[2] = "Skype: Suporte_LineB ",
+	[3] = "Ajuda? Chame um Staff! ",
+	[4] = "Reporte Bug's com o /bug ",
+	[5] = "Vip apenas: R$10,00 ",
+	[6] = "Acesse o RaidCall: ",
+	[7] = "Divirta-se! ",
+	[8] = "Acesse o RaidCall:  ",
+
+
+
+
+
+}
+local colors = {
+  	{248, 248, 255}; -- texto 01 (Branco Fantasma)
+	{255, 0, 0};     -- texto 02 (Vermelho Sangue)
+	{248, 248, 255}; -- texto 03 (Branco Fantasma)
+	{255, 0, 0};     -- texto 04 (Vermelho Sangue)
+	{248, 248, 255}; -- texto 05 (Branco Fantasma)
+	{255, 0, 0};     -- texto 06 (Vermelho Sangue)
+	{248, 248, 255}; -- texto 07 (Branco Fantasma)
+	{255, 0, 0};     -- texto 08 (Vermelho Sangue)
+
+}
+local textAlpha = 255
+local screenWidth, screenHeight = guiGetScreenSize()
+local currentMessage = 1
+local currentColor = 1
+addEventHandler("onClientRender", root, function()
+  local red, green, blue = unpack(colors[currentColor])
+  dxDrawBorderedText(messagesList[currentMessage], 0.37109375 * screenWidth, 0.013020833333333 * screenHeight, 0.68359375 * screenWidth, 0.0013020833333333 * screenHeight, tocolor(red, green, blue, textAlpha), screenWidth / 1024 * 1, "pricedown")
+  if fadeIn == false then
+    textAlpha = textAlpha - 7
+  elseif fadeIn == true then
+    textAlpha = textAlpha + 7
+  end
+  checkApha()
+end)
+fadeIn = false
+function checkApha()
+  if textAlpha < 130 then
+    fadeIn = true
+  elseif textAlpha >= 247 and textAlpha <= 255 and fadeIn == true then
+    fadeIn = false
+  end
+end
+function updateMessage()
+  if currentMessage == #messagesList then
+    currentMessage = 1
+    currentColor = 1
+  else
+    currentMessage = currentMessage + 1
+    currentColor = currentColor + 1
+  end
+end
+setTimer(updateMessage, 9000, 0)
+function dxDrawBorderedText(text, x, y, w, h, color, scale, font, alignX, alignY, clip, wordBreak, postGUI)
+  dxDrawText(text, x - 2, y - 2, w - 2, h - 2, tocolor(0, 0, 0, 255), scale, font, alignX, alignY, clip, wordBreak, false)
+  dxDrawText(text, x + 2, y - 2, w + 2, h - 2, tocolor(0, 0, 0, 255), scale, font, alignX, alignY, clip, wordBreak, false)
+  dxDrawText(text, x - 2, y + 2, w - 2, h + 2, tocolor(0, 0, 0, 255), scale, font, alignX, alignY, clip, wordBreak, false)
+  dxDrawText(text, x + 2, y + 2, w + 2, h + 2, tocolor(0, 0, 0, 255), scale, font, alignX, alignY, clip, wordBreak, false)
+  dxDrawText(text, x - 1, y, w - 1, h, tocolor(0, 0, 0, 255), scale, font, alignX, alignY, clip, wordBreak, false)
+  dxDrawText(text, x + 1, y, w + 1, h, tocolor(0, 0, 0, 255), scale, font, alignX, alignY, clip, wordBreak, false)
+  dxDrawText(text, x, y - 1, w, h - 1, tocolor(0, 0, 0, 255), scale, font, alignX, alignY, clip, wordBreak, false)
+  dxDrawText(text, x, y + 1, w, h + 1, tocolor(0, 0, 0, 255), scale, font, alignX, alignY, clip, wordBreak, false)
+  dxDrawText(text, x, y, w, h, color, scale, font, alignX, alignY, clip, wordBreak, postGUI)
+end

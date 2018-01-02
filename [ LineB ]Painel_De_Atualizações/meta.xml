@@ -1,0 +1,5 @@
+<meta>
+	<info author="L1K3" name="Atualizações do Servidor" version="5.0.0" type="script"/>
+	<config src="info/infomemo.xml" type="client"/>
+	<script src="actualizacion-C.lua" type="client"/>
+</meta>

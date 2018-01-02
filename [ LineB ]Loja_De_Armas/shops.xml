@@ -1,0 +1,7 @@
+<root>
+	<shop posX="296.2685546875" posY="-38.083984375" posZ="1000.515625" interior="1" pedX="296.30176" pedY="-40.25771" pedZ="1001.51563" pedSkinID="179" />
+	<shop posX="297.1826171875" posY="-80.32421875" posZ="1000.515625" interior="4" pedX="297.36749" pedY="-82.92380" pedZ="1001.51563" pedSkinID="179" />
+	<shop posX="287.9423828125" posY="-108.8603515625" posZ="1000.515625" interior="6" pedX="287.66992" pedY="-111.78953" pedZ="1001.51563" pedSkinID="179" />
+	<shop posX="311.9541015625" posY="-165.439453125" posZ="998.59375" interior="6" pedX="311.91336" pedY="-167.97131" pedZ="999.59375" pedSkinID="179" />
+	<shop posX="313.8994140625" posY="-132.9365234375" posZ="998.6015625" interior="7" pedX="316.19681" pedY="-133.22615" pedZ="999.60156" pedR="90" pedSkinID="179" />
+</root>

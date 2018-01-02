@@ -1,0 +1,4 @@
+<meta>
+	<info author="L1K3" version="1.0" description="pay" name="pay_function" type="script" />
+	<script src="pay.lua" type="server"/>
+</meta>
