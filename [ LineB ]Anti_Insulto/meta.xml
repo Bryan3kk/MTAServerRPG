@@ -1,0 +1,6 @@
+<meta>
+	<info author="LineB - Security" version="1.1" description="Reduz insultos" name="Anti-Insulto" type="script" />
+	
+	<script src="main_s.lua" />
+	
+</meta>

@@ -1,0 +1,4 @@
+<meta>
+<info author="LineB - Security" name="AntiMultiSerialJoin" version="1.0" type="script"/>
+<script src="server.lua"/>
+</meta>
