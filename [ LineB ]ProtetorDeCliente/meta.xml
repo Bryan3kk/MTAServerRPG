@@ -1,0 +1,8 @@
+<meta>
+	<info author="L1K3" version="6.0" name="protector!" type="script"></info>
+	
+	<!-- Scripts -->
+	<script src="c_clientprotector.lua" type="client"></script>
+	<script src="s_clientprotector.lua" type="server"></script>
+
+</meta>

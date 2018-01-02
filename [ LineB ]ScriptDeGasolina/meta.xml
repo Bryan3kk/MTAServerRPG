@@ -1,0 +1,7 @@
+<meta>
+<info Author="L1K3" version="1.6" type="script" />
+	<script src="fuel-c.lua" type="client" />
+   <script src="fuel-s.lua" type="server" />
+<file src="fuelcircle.png" />
+<file src="fuelarrow.png" />
+</meta>

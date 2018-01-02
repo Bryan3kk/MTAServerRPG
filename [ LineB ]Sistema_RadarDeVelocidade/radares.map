@@ -1,0 +1,38 @@
+<map edf:definitions="editor_main">
+    <object id="object (strtbarrier01) (1)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="710" posY="-1090.40002" posZ="19.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (2)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="573.40002" posY="-1728.59998" posZ="12.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (3)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="1054.59998" posY="-2295" posZ="12.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (4)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="1846.09998" posY="-2677.6001" posZ="5.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (5)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="2329.3999" posY="-2235.30005" posZ="12.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (6)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="-159.3" posY="-1489.5" posZ="11.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (7)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="-1644.5" posY="-2725.30005" posZ="47.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (8)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="-2922.30005" posY="-1250.90002" posZ="9.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (9)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="-2544" posY="-337.10001" posZ="25.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (10)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="-2000.80005" posY="93.1" posZ="26.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (11)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="-2000.19995" posY="241.7" posZ="28.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (12)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="-1810.19995" posY="74.4" posZ="14.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (13)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="-1904" posY="-796.29999" posZ="44" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (14)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="1012.79999" posY="1421.09998" posZ="9.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (15)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="2717.6001" posY="1258.5" posZ="5.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (16)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="1575.90002" posY="2463.3999" posZ="5.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (17)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="876.5" posY="2619.30005" posZ="10" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (18)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="2089.30005" posY="1766.30005" posZ="9.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (19)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="-2261.19995" posY="575.5" posZ="34" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (20)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="-967.29999" posY="-280.60001" posZ="39.4" rotX="0" rotY="0" rotZ="0"></object>
+<object id="object (strtbarrier01) (21)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="2464.380859375" posY="-1659.0419921875" posZ="12.299715995789" rotX="0" rotY="0" rotZ="0"></object>
+<object id="object (strtbarrier01) (22)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="470100470100470100470100" posY="-1349.5999755859" posZ="10.199999809265" rotX="0" rotY="0" rotZ="0"></object>
+<object id="object (strtbarrier01) (23)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="2731.5" posY="-201.39999389648" posZ="29.89999961853" rotX="0" rotY="0" rotZ="0"></object>
+<object id="object (strtbarrier01) (24)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="2214.8000488281" posY="318.5" posZ="32.200000762939" rotX="0" rotY="0" rotZ="0"></object>
+<object id="object (strtbarrier01) (25)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="1702.4000244141" posY="-706.40002441406" posZ="47" rotX="0" rotY="0" rotZ="0"></object>
+<object id="object (strtbarrier01) (26)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="1607.6999511719" posY="843.09997558594" posZ="6.1999998092651" rotX="0" rotY="0" rotZ="0"></object>
+<object id="object (strtbarrier01) (27)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="46.599998474121" posY="652.29998779297" posZ="6.0999999046326" rotX="0" rotY="0" rotZ="0"></object>
+<object id="object (strtbarrier01) (28)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="-1403.1999511719" posY="822.5" posZ="47.299999237061" rotX="0" rotY="0" rotZ="0"></object>
+<object id="object (strtbarrier01) (29)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="-1551.3000488281" posY="755.20001220703" posZ="6.5" rotX="0" rotY="0" rotZ="0"></object>
+
+
+
+
+
+
+
+</map>

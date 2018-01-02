@@ -1,0 +1,7 @@
+<meta>	
+	
+	<info name="Security FPS & Ping" author="L1K3" addon="RPG" type="misc" version="1.0" />	<script src="server/script.lua" type="server" />
+	<script src="client/script.lua" type="client" />
+	<script src="server/script.lua" type="server" />
+
+</meta>

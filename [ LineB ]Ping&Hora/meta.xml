@@ -1,0 +1,5 @@
+<meta>
+	<info author="L1K3" version="1.0" type="script" />
+       <script src="client.lua" type="client" />
+        <script src="AldotheApache.ttf" type="client" />
+   </meta>
