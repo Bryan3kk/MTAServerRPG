@@ -1,0 +1,9 @@
+<meta>
+    <info author="L1K3" version="2.0.1" type="script" name="Marker System"/>
+	<script type="client" src="ClientSpawnCar.lua" />
+	<script type="client" src="Language.lua" />	
+	<script type="server" src="Server.lua" />	
+	<script src="colorpicker/colorpicker.lua" type="client" />	
+	<file src="colorpicker/palette.png" />
+	<file src="colorpicker/alpha.png" />	
+</meta>

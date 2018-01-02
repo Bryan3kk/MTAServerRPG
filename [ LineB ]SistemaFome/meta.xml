@@ -1,0 +1,4 @@
+<meta>
+  <info author="L1K3" version="1.0" name="fome" description="Fome sistema de rpg" type="script" />
+  <script src="hunger.lua" type="client" />
+</meta>
