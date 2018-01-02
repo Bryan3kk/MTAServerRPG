@@ -1,0 +1,6 @@
+<meta>
+	<info author="L1K3" type="script" name="Turf System" version="2.5.4" />
+	<script src="serverTurf.lua" type="server" />
+	<script src="clientTurf.lua" type="client" />
+	<file src="missionDone.mp3" />
+</meta>

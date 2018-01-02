@@ -1,0 +1,16 @@
+<help>
+Sistema de casa v1.1.0 
+=================================================
+Descrição:
+Este é um recurso do Sistema House. Ele permite que você construa uma casa em qualquer lugar e com qualquer interior que você quer. Outros jogadores podem comprar suas casas.
+
+O Sistema de Câmara inclui:
+- User-friendly GUI.
+- Comprar uma casa.
+- Chave de proteção. Você pode definir sua própria chave, de modo que ninguém pode entrar dentro de sua casa!
+- Vender uma casa pela metade do preço de seu preço.
+- A definição de um novo proprietário (se você quer fazer um presente 'pequeno' para alguém: P)
+- Destruir uma casa existente. (administradores só!)
+
+Se você quer ver todas as casas em seu radar, mantenha-o 'eu'. Casa verde ícone significa que não há nenhum proprietário desta casa, no entanto, o vermelho mostra que esta casa já está ocupado por alguém.
+</help>
