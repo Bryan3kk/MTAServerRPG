@@ -1,0 +1,9 @@
+<meta>
+<info author="L1K3" version="0.8" name="BugsReports" description="Para reportar Bugs!" type="script"/>
+	
+	<script src="debug_c.lua" type="client" />
+	<script src="debug_s.lua" type="server" />
+
+
+
+</meta>

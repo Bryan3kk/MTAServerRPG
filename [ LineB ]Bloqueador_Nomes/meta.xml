@@ -1,0 +1,4 @@
+<meta>
+	<info author="LineB" version="1.0" type="script" name="Bloquear Nicks" description="" />
+	<script src="server.lua" type="server" />
+</meta>

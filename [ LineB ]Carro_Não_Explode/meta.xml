@@ -1,0 +1,4 @@
+<meta>
+    <info author="L1K3" name="Carro Não Explode" version="1.0.1" type="misc"/>
+	<script src="carblowfix.lua" type="client"/>
+</meta>
