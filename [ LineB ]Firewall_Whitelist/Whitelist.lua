@@ -3,8 +3,6 @@ Slist = {
 ["Serial do Andrey"] = true, -- Andrey
 ["Serial do Pro"] = true, -- Proo
 ["Serial do Arvena"] = true, -- Arvena
-["Serial do Patrick"] = true, -- Patrick
-["Serial do Dyovani"] = true, -- Dyovani
 }*
 --[[
 ["Serial"] = true, -- Exemplo
